@@ -1,0 +1,12 @@
+.header_wrap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.zzz{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin-top: 20px;
+    margin-left: 250px;
+}

@@ -1,0 +1,73 @@
+.wrap_listCard{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.btn {
+    margin-top: 5px;
+    display: block;
+    box-sizing: border-box;
+    padding: 0 25px;
+    height: 60px;
+    border-radius: 50%;
+    font-size: 14px;
+    color: #FFFFFF;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.25) 0%, rgba(255, 255, 255, 0) 100%), #052742;
+    text-align: center;
+
+
+}
+.wrapPginaationBtn{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1100px;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+.arrow {
+
+    border: solid #ffffff;
+    display: inline-block;
+
+    border-width: 0 5px 5px 0;
+    padding: 5px;
+}
+
+
+.right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+.left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+
+.page{
+    margin-top: 15px;
+    background: white;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+
+}
+.curunt_page{
+    margin-top: 15px;
+    background: #e5c60f;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+
+}

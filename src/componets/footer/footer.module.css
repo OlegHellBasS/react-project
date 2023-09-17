@@ -1,0 +1,27 @@
+.footerWrap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 1100px;
+
+    column-gap: 100px;
+}
+.footerBlockLeft{
+    width: 700px;
+}
+.footerBlockRight{
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    height: 130px;
+}
+
+.hr{
+    width: 1100px;
+}
+.img{
+    width: 25px;
+    height: 25px;
+    background: #ffffff;
+    color:red;
+}

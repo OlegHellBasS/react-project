@@ -1,0 +1,30 @@
+.btn {
+    margin-top: 5px;
+    display: block;
+    box-sizing: border-box;
+    padding: 0 25px;
+    height: 42px;
+    line-height: 38px;
+    border: 1px solid #ffffff;
+    border-radius: 25px;
+    font-size: 14px;
+    color: #FFFFFF;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.25) 0%, rgba(255, 255, 255, 0) 100%), #052742;
+    text-align: center;
+    font-weight: 600;
+
+
+}
+.wrap_Btn_blc{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.wrapGanreBtn{
+
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}

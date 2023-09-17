@@ -1,0 +1,10 @@
+.wrap{
+    width: 100%;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.dark{
+    background: #011f37;
+}

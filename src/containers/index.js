@@ -1,0 +1,5 @@
+export * from './moviesPage/MoviePage'
+export * from './moviesListPage/MoviesListPage'
+export * from './moviesListCardPage/MoviesListCardPage'
+export * from './pageMyPleyList/PageMyPleyList'
+export * from './notFoundPage/NotFoundPage'

@@ -1,0 +1,10 @@
+.wrapPleyList{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1200px;
+    min-height: 600px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    min-height: 600px;
+}
